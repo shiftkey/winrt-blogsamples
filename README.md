@@ -9,6 +9,7 @@ Some things I have in mind:
  - How do you even do this? (contemplating porting [OAuthBase.cs](http://oauth.googlecode.com/svn/code/csharp/OAuthBase.cs) across - other suggestions/projects that would be good candidates for this cross-language sharing?)
  - The differences between porting to Metro and WinRT
  - Headaches that .NET developers are going to find when porting code across
+ - How could you backport Windows.* APIs to .NET (also known as the "@xpaulbettsx made me do it" experiment)
 
 Got an idea? Send me a pull request of this README with something you'd like to see done...
 
