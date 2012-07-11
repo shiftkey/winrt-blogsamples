@@ -10,6 +10,8 @@ Some things I have in mind:
  - The differences between porting to Metro and WinRT
  - Headaches that .NET developers are going to find when porting code across
  - How could you backport Windows.* APIs to .NET (also known as the "@xpaulbettsx made me do it" experiment)
+ - Form validation in XAML - did it come across? has it changed? what even is this?
+ - 
 
 Got an idea? Send me a pull request of this README with something you'd like to see done...
 
