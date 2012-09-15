@@ -8,7 +8,7 @@ To get myself back into this "blogging" thing, I'm forcing myself to publish som
 Things which I need to write up:
 
  - How these "language projections" work for people who do C#/C++/JS work?
- - How do you even do this? (contemplating porting [OAuthBase.cs](http://oauth.googlecode.com/svn/code/csharp/OAuthBase.cs) across - other suggestions/projects that would be good candidates for this cross-language sharing?)
+ - How do you even do this? (discussing porting [OAuthBase.cs](https://github.com/shiftkey/oauth-winrt) and some other small libraries)
  - Some cool tricks you can do with tile notifications 
  - The differences between porting to Metro and WinRT 
  - Headaches that .NET developers are going to find when porting code across
